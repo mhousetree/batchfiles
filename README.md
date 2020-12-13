@@ -23,6 +23,7 @@ lazygitで実行するコマンドに加え、
 git push heroku BranchName
 ```
 も実行します。  
+取得したBranchNameがmasterでない場合は、ちゃんとBranchName:masterにして実行します。
 
 ## ディレクトリ構成
 - lazygit.bat
